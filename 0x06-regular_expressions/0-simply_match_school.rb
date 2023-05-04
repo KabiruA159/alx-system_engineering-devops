@@ -1,3 +1,9 @@
 #!/usr/bin/env ruby
-# A regular expression that is simply matching School
-puts ARGV[0].scan(/School/).join
+
+def search_for_school(input)
+  input.scan(/School/).join
+end
+
+search_result = search_for_school(ARGV[0])
+puts search_result
+
