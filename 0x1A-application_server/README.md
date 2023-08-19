@@ -1,4 +1,4 @@
-Application Server Deployment: 
+**Application Server Deployment:*** 
 The text describes a project involving the deployment of an application that is an Airbnb clone. This likely refers to a web application that emulates some of the functionality of the Airbnb website.
 
 Configuration Steps: 
